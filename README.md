@@ -1,4 +1,4 @@
-# Dumb Reader
+# Dumb RSS
 A really dumb feed-reader.
 
 ## Configuration
