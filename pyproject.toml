@@ -1,0 +1,15 @@
+[project]
+name = "badrss"
+version = "0.0.1"
+dependencies = ["defusedxml", "requests"]
+
+[project.optional-dependencies]
+dev = ["black", "isort", "ruff"]
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

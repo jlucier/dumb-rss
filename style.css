@@ -1,0 +1,20 @@
+body {
+    background-color: #181818;
+    color: #fff;
+}
+
+a:link {
+    color: cornflowerblue;
+}
+
+a:visited {
+    color: darkslateblue;
+}
+
+.feed {
+    margin-left: 1em;
+}
+
+.article-description {
+    max-width: 1000px;
+}

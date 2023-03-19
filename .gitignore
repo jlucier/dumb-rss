@@ -1,0 +1,8 @@
+build
+*.egg-info
+
+# config for feeds
+config.toml
+
+# generated html
+index.html
